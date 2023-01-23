@@ -23,7 +23,7 @@ Plug 'https://github.com/neoclide/coc.nvim'  " Auto Completion
 
 call plug#end()
 
-nmap <F8> :TagbarToggle<CR>
+nmap <F8> :TagbarToggle<CR> 
 
 :colorscheme jellybeans
 
